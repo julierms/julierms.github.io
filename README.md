@@ -2,7 +2,7 @@
 <div class="container">
 <img width="213" height="211" alt="Image" src="https://github.com/user-attachments/assets/cb07cdb3-87fe-4cad-9126-b13923addb4b" class="float-left">
 <p>👩🏻‍💻 Aspiring to build a career in CyberSecurity</p>
-<p>✨ Passionate about learning how systems work, identifying vulnerabilities, and solutions</p>
+<p>✨ Passionate about learning how systems work, identifying vulnerabilities and solutions</p>
 <p>🖥️ Currently working on obtaining my CompTIA A+ & CompTIA Security+</p>
 </div>
 
