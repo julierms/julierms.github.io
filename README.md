@@ -21,8 +21,8 @@
 
 
 <h3 align="left">Connect with me:</h3>
-👨‍💻 All of my projects are available at [GitHub](https://github.com/julierms)
+👩🏻‍💻 All of my projects are available at [GitHub](https://github.com/julierms)
 
-📫 How to reach me: <a href="mailto:julieannramos14@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+📫 Contact me: <a href="mailto:julieannramos14@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 
