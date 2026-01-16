@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Julie Ann Ramos</h1>
+<h1 align="center">👋 Hi, I'm Julie. </h1>
 
 <h3 align="center"><img width="281" height="355" alt="Image" src="https://github.com/user-attachments/assets/640bf3ee-658d-444a-ab19-b12c2e2d0158" /></h3>
 
