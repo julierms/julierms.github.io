@@ -4,10 +4,12 @@
 
 <h3 align="center">Aspiring to build a career in cybersecurity. I’m passionate about learning how systems work, identifying vulnerabilities, and developing secure, reliable solutions as I continue to grow my technical skills.</h3>
 
-🖥️ I’m currently working on **obtaining my CompTIA A+ & CompTIA Security+**
+<h4 align="center">🖥️ I’m currently working on **obtaining my CompTIA A+ & CompTIA Security+**</h4>
 
 # **💡 Technical Skills**
-- HTML, JavaScript, CSS
+- HTML
+- JavaScript
+- CSS
 
 # **📜 Certifications**
 - PromineoTech Front End Software Engineer Certification
