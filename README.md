@@ -1,6 +1,7 @@
-# portfolio
+# Hi, I'm
 
 
 
 
-# Julie
+# Julie Ann Ramos
+
